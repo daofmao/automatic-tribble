@@ -12,9 +12,9 @@
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
 	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
-	<p style="font-family:times"><left>&emsp;Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
-	<p style="font-family:times"><left>&emsp;Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
-	<p style="font-family:times"><left>&emsp;Doctor in Power Electronics (master-doctor combined program)&emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
+	<p style="font-family:times"><left>Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
+	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
+	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
 	<p style="font-family:times"><left>&emsp;Circuit Analysis, Analog & Digital Electronic Technique, Automatic Control Theory, Electronic Design Automation, Sensor Principle and Application, Principles and Application of Programmable Controller, Motor Drive Basis, Modeling & Simulation of Advanced Power Electronics System, Power Electronics, Analysis & Design of Switch Converters, Modulation & Control Techniques of Power Electronics.</left></p>
 	<h3 style="font-family:times"><font color="000000">Campus post</font></h3>
@@ -56,7 +56,7 @@
 	<p style="font-family:times"><left>&emsp;Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</left></p>
 	<p style="font-family:times"><left>&emsp;Proficient at using Altium Designer for the PCB design of circuit</left></p>
 	<p style="font-family:times"><left>&emsp;Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</left></p>
-	<p style="font-family:times"><left>&emsp;Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</left></p>
+	<p style="font-family:times;padding:1em"><left>&emsp;Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</left></p>
 	<p style="font-family:times"><left>&emsp;Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</left></p>
 	
 	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
