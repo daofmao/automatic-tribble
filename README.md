@@ -8,7 +8,7 @@
 	</style>
 </head>
 <body>
-	<Center><h1>Gui-hua Mao</h1></Center>
+	<Center><h1 style="font-family:times">Gui-hua Mao</h1></Center>
 	<p><center>Birth: June 15,1993</center>
 	<p><center>Marital Status: Unmarried</center>
 	<p><center>Add: No. 999, Xi'an Road, Pidu District,</center>
@@ -66,6 +66,6 @@
 	<p><left>&ensp;Diligent, sureness, aggressive, conscientiously; very adaptable and good at leaning; having good theoretic knowledge, experimental and DIY skills; calm and steady personality; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left>
 	
 	<h2><font color="00ff00">PURPOSE</font></h2>
-	<p><left>&ensp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</font>
+	<p><left>&ensp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</left>
 </body>
 </html>	
