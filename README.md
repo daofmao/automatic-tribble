@@ -1,11 +1,6 @@
 <html>
 <head>
 	<style>
-		<p>{
-		font-size:30px;
-		color:green;
-		line-height:1.5em;
-		}
 		body {margin:100px;padding:100px;}
 	</style>
 </head>
@@ -47,13 +42,14 @@
 	<p style="font-family:times"><left>&emsp;Responsible for the design of detection circuits of voltage and current, auxiliary power supplies and coil windings, and the writing of the paper.</left></p>
 
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
+<font face="times" >
 	<table border="0">
 		<tr>
-			<td style="font-family:times,valign:left">[1]&ensp;</td>
+			<td valign="left">[1]&ensp;</td>
 			<td style="font-family:times">Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td>
 		</tr>
 		<tr>
-			<td style="font-family:times,valign:left">[2]&ensp;</td>
+			<td valign="left">[2]&ensp;</td>
 			<td style="font-family:times">Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019.</td>
 		</tr>
 		<tr>
@@ -81,7 +77,7 @@
 			<td style="font-family:times">Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, Guihua Mao, “Performance analysis of dynamic reference current controlled tri-state boost converter,” Journal of Southwest Jiaotong University, 2018, 1-7. (in Chinese)</td>
 		</tr>
 	</table>
-	
+	</font>
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
 	<p style="font-family:times"><left>Computer languages: C/C++, VERILOG</left></p>
 	<p style="font-family:times"><left>Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</left></p>
