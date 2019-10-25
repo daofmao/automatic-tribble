@@ -1,7 +1,7 @@
 <html>
 <head>
 	<style>
-		body {margin:100px;padding:100px;}
+		body {margin:100px;padding:100px;line-height:18px;}
 	</style>
 </head>
 <body>
