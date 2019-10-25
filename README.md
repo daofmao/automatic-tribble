@@ -12,7 +12,7 @@
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
 	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
-	<p style="font-family:times"><left>Bachelor in Electronic & Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
+	<p style="font-family:times"><left>Bachelor in Electronic & Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &thinsp;Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
 	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
 	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
