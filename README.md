@@ -9,10 +9,10 @@
 </head>
 <body>
 	<Center><h1 style="font-family:times">Gui-hua Mao</h1></Center>
-	<p><center>Birth: June 15,1993</center>
-	<p><center>Marital Status: Unmarried</center>
-	<p><center>Add: No. 999, Xi'an Road, Pidu District,</center>
-	<p><center>Chengdu city, Sichuan province, China</center>
+	<p style="font-family:times"><center>Birth: June 15,1993</center>
+	<p style="font-family:times"><center>Marital Status: Unmarried</center>
+	<p style="font-family:times"><center>Add: No. 999, Xi'an Road, Pidu District,</center>
+	<p style="font-family:times"><center>Chengdu city, Sichuan province, China</center>
 	
 	<h2><font color="00ff00">EDUCATION</font></h2>
 	<p><left>Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left>
