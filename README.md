@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<style>
@@ -8,13 +7,12 @@
 		}
 	</style>
 </head>
-	<body>
-	<p><Center><h1>Gui-hua Mao</Center><left></p>
-	<left>Birth: June 15,1993<left>
-	<left>Marital Status: Unmarried<left>
-	<left>Add: No. 999, Xi'an Road, Pidu District,<left>
-	<left>Chengdu city, Sichuan province, China<left>
+<body>
+	<Center><h1>Gui-hua Mao</h1></Center>
+	<p><left>Birth: June 15,1993</left></p>
+	<p><left>Marital Status: Unmarried</left></p>
+	<p><left>Add: No. 999, Xi'an Road, Pidu District,</left></p>
+	<p><left>Chengdu city, Sichuan province, China</left></p>
 	<p>EDUCATION</p>
-	</body>
+</body>
 </html>
-		
