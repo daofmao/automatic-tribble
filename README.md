@@ -10,6 +10,7 @@
 <body>
 	<Center><h1 style="font-family:times">Gui-hua Mao</h1></Center>
 	<p style="font-family:times"><center>Birth: June 15,1993</center></p>
+	<p><img src = "file://C/Users/Guihu/Pictures/MGH.gif" align = "right"></p>
 	<p style="font-family:times"><center>Marital Status: Unmarried</center></p>
 	<p style="font-family:times"><center>Add: No. 999, Xi'an Road, Pidu District,</center></p>
 	<p style="font-family:times"><center>Chengdu city, Sichuan province, China</center></p>
