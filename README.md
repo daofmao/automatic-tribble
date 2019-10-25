@@ -10,7 +10,7 @@
 </head>
 <body>
 	<h1 style="font-family:times"><font color="00B050">Gui-hua Mao</font></h1>
-	<p style="font-family:times"><img src = "file://C:/Users/Guihu/Pictures/MGH.jpg" align = "right">Birth: June 15,1993</p>
+	<p style="font-family:times"><img src = "file://C:/Users/Guihu/Pictures/MGH.gif" align = "right">Birth: June 15,1993</p>
 	<p style="font-family:times">Marital Status: Unmarried</p>
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
@@ -27,7 +27,7 @@
 	<p style="font-family:times"><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left></p>
 	<p style="font-family:times"><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left></p>
 	<p style="font-family:times"><left>2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</left></p>
-	<p style="font-family:times"><left>2017.09/2018.09&emsp; &emsp; &ensp; The First Prize Scholarship</left></p>
+	<p style="font-family:times"><left>2017.09/2018.09&emsp; &emsp; &emsp; The First Prize Scholarship</left></p>
 	<p style="font-family:times"><left>2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest</left></p>
 	<p style="font-family:times"><left>2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest</left></p>
 	
