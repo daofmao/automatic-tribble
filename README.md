@@ -9,16 +9,15 @@
 </head>
 <body>
 	<h1 style="font-family:times">Gui-hua Mao</h1>
-	<p style="font-family:times">Birth: June 15,1993</p>
-	<p><img src = "file://C:/Users/Guihu/Pictures/MGH.jpg" align = "right"></p>
+	<p style="font-family:times"><img src = "file://C:/Users/Guihu/Pictures/MGH.jpg" align = "right">Birth: June 15,1993</p>
 	<p style="font-family:times">Marital Status: Unmarried</p>
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
 	<h2 style="font-family:times"><font color="00ff00">EDUCATION</font></h2>
 	<p style="font-family:times"><left>Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
-	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
-	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
+	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
+	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; Southwest Jiaotong University &emsp; &emsp; &emsp; 2019.09 – now</left></p>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
 	<p style="font-family:times"><left>Circuit Analysis, Analog & Digital Electronic Technique, Automatic Control Theory, Electronic Design Automation, Sensor Principle and Application, Principles and Application of Programmable Controller, Motor Drive Basis, Modeling & Simulation of Advanced Power Electronics System, Power Electronics, Analysis & Design of Switch Converters, Modulation & Control Techniques of Power Electronics.</left></p>
 	<h3 style="font-family:times"><font color="000000">Campus post</font></h3>
