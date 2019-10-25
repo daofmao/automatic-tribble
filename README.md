@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-<title>wikiHow Fan Page</title>
-</head>
-
 <body>
-
 <h1>欢迎来到我的网页！</h1>
 <p>这里是wikiHow的粉丝专页。不要客气，当作在自己家一样！</p>
 
