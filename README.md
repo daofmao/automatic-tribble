@@ -22,11 +22,12 @@
 	<p><h3><font color="000000">Campus post</font></h3></p>
 	<p><left>Monitor of Class 3, 16 Graduate School, Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</p></left>
 	<p><h3><font color="000000">Awards & Achievements</font></h3></p>
-	<p><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</p></left>
-	<p><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</p></left>
-	<p><left>2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</p></left>
-	<p><left>2017.09/2018.09 &emsp; &emsp; The First Prize Scholarship</p></left>
-	<p><left>2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest</p></left>
-	<p><left>2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest</p></left>
+	<p><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left>
+	<p><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left>
+	<p><left>2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</left>
+	<p><left>2017.09/2018.09 &emsp; &emsp; The First Prize Scholarship</left>
+	<p><left>2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest<p></left>
+	<p><left>2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest<p></left>
+	
 </body>
 </html>	
