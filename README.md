@@ -5,7 +5,7 @@
 		font-size:30px;
 		color:green;
 		}
-		body {margin:10px;padding:10px;}
+		body {margin:100px;padding:100px;}
 	</style>
 </head>
 <body>
