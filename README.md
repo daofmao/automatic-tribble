@@ -49,15 +49,14 @@
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	<table border="0">
 		<tr>
-			<td>[1]</td>
-			<td>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td>
+			<td valign="left">[1]</td>
+			<p style="font-family:times"><td>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td></p>
 		</tr>
 		<tr>
-			<td>[2]</td>
-			<td>Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019.</td>
+			<td valign="left">[2]</td>
+			<p style="font-family:times"><td>Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019.</td></p>
 		</tr>
 	</table>
-	<p style="font-family:times"><left>
 	<p style="font-family:times;text-indent:-2em;padding:2em"><left>[1]&ensp;&thinsp;Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</left></p>
 	<p style="font-family:times;text-indent:-2em;padding:2em"><left>[2]&ensp;&thinsp;Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019. (Accept)</left></p>
 	<p style="font-family:times;text-indent:-2em;padding:2em"><left>[3]&ensp;&thinsp;Guohua Zhou, Shaohuan Zeng, Shuhan Zhou, Guihua Mao, and Shungang Xu, “Unified discrete-map modeling and dynamical behaviour analysis of current mode controlled tri-state dc-dc converters,” IET Power Electronics, 2018, 12(1): 51-60.</left></p>
