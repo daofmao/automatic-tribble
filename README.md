@@ -81,14 +81,33 @@
 			<p style="font-family:times"><td>Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, Guihua Mao, “Performance analysis of dynamic reference current controlled tri-state boost converter,” Journal of Southwest Jiaotong University, 2018, 1-7. (in Chinese)</td></p>
 		</tr>
 	</table>
-	
-	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
-	<p style="font-family:times"><left>&emsp;Computer languages: C/C++, VERILOG</left></p>
-	<p style="font-family:times"><left>&emsp;Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</left></p>
-	<p style="font-family:times"><left>&emsp;Proficient at using Altium Designer for the PCB design of circuit</left></p>
-	<p style="font-family:times"><left>&emsp;Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</left></p>
-	<p style="font-family:times;padding:1em"><left>&emsp;Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</left></p>
-	<p style="font-family:times"><left>&emsp;Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</left></p>
+	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>	
+	<table border="0">
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Computer languages: C/C++, VERILOG</td>
+		</tr>
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</td>
+		</tr>
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Proficient at using Altium Designer for the PCB design of circuit</td>
+		</tr>
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</td>
+		</tr>
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</td>
+		</tr>
+		<tr>
+			<td valign="left">&emsp;</td>
+			<td style="font-family:times">Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</td>
+		</tr>
+	</table>	
 	
 	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
 	<p style="font-family:times"><left>&emsp;Diligent, sureness, aggressive, conscientiously; very adaptable and good at leaning; having good theoretic knowledge, experimental and DIY skills; calm and steady personality; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left></p>
