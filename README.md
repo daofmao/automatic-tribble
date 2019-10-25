@@ -2,7 +2,6 @@
 <head>
 	<style>
 		body {margin:100px;padding:100px;}
-		<style="line-height:25px">
 	</style>
 </head>
 <body>
@@ -93,6 +92,6 @@
 	<p style="font-family:times"><left>&emsp;Diligent, sureness, aggressive, conscientiously; very adaptable and good at leaning; having good theoretic knowledge, experimental and DIY skills; calm and steady personality; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left></p>
 	
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
-	<p style="font-family:times"><left>&emsp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</left></p>
+	<p style="font-family:times" "line-height:25px"><left>&emsp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</left></p>
 </body>
 </html>	
