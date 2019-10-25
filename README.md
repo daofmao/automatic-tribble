@@ -2,6 +2,7 @@
 <head>
 	<style>
 		body {margin:100px;padding:100px;}
+		<style="line-height:25px">
 	</style>
 </head>
 <body>
