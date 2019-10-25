@@ -46,7 +46,7 @@
 	<p style="font-family:times"><left>&ensp;Responsible for the design of detection circuits of voltage and current, auxiliary power supplies and coil windings, and the writing of the paper.</left></p>
 
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
-	<p style="font-family:times"><left>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</left></p>
+	<p style="font-family:times,padding:2em"><left>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</left></p>
 	<p style="font-family:times"><left>Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019. (Accept)</left></p>
 	<p style="font-family:times"><left>Guohua Zhou, Shaohuan Zeng, Shuhan Zhou, Guihua Mao, and Shungang Xu, “Unified discrete-map modeling and dynamical behaviour analysis of current mode controlled tri-state dc-dc converters,” IET Power Electronics, 2018, 12(1): 51-60.</left></p>
 	<p style="font-family:times"><left>Guohua Zhou, Hongbo Zhao, Guihua Mao, Shuhan Zhou, Shungang Xu, “Overview and classification of modulation techniques of switching converters,” Proceedings of the CSEE, 2018, 38(21): 6383-6400. (in Chinese)</left></p>
