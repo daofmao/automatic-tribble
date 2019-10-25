@@ -47,7 +47,7 @@
 	<p style="font-family:times"><left>&emsp;Responsible for the design of detection circuits of voltage and current, auxiliary power supplies and coil windings, and the writing of the paper.</left></p>
 
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
-	<table border="0"
+	<table border="0">
 		<tr>
 			<td>[1]</td>
 			<td>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td>
