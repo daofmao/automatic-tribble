@@ -5,7 +5,7 @@
 	</style>
 </head>
 <body>
-	<h1 style="font-family:times"><font color="00B050"><img src="![image](https://github.com/daofmao/maomao/blob/master/MGH.gif" align="right" width="180" height="256">Gui-hua Mao</font></h1>
+	<h1 style="font-family:times"><font color="00B050"><img src="![image](https://github.com/daofmao/maomao/raw/master/MGH.gif" align="right" width="180" height="256">Gui-hua Mao</font></h1>
 	<p style="font-family:times">Birth: June 15,1993</p>
 	<p style="font-family:times">Marital Status: Unmarried</p>
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
