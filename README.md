@@ -27,7 +27,7 @@
 	<p style="font-family:times"><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left></p>
 	<p style="font-family:times"><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left></p>
 	<p style="font-family:times"><left>2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</left></p>
-	<p style="font-family:times"><left>2017.09/2018.09&emsp; &emsp; &emsp; The First Prize Scholarship</left></p>
+	<p style="font-family:times"><left>2017.09/2018.09&emsp; &emsp; &emsp;&thinsp;The First Prize Scholarship</left></p>
 	<p style="font-family:times"><left>2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest</left></p>
 	<p style="font-family:times"><left>2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest</left></p>
 	
