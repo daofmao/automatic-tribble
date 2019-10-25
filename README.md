@@ -4,6 +4,7 @@
 		<p>{
 		font-size:30px;
 		color:green;
+		line-height:1.5em;
 		}
 		body {margin:100px;padding:100px;}
 	</style>
