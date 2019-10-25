@@ -49,11 +49,11 @@
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	<table border="0">
 		<tr>
-			<td valign="left";style="font-family:times">[1]&ensp;</td>
+			<p style="font-family:times"><td valign="left">[1]&ensp;</td>
 			<td style="font-family:times">Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td>
 		</tr>
 		<tr>
-			<td valign="left";style="font-family:times">[2]&ensp;</td>
+			<p style="font-family:times"><td valign="left">[2]&ensp;</td>
 			<td style="font-family:times">Guohua Zhou, Guihua Mao, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2019.</td>
 		</tr>
 		<tr>
