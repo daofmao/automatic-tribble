@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1 style="font-family:times"><font color="00B050">Gui-hua Mao</font></h1>
-	<p style="font-family:times"><img src="file:///C:/Users/Guihu/Pictures/MGH.jpg" align="right" width="256" height="180">Birth: June 15,1993</p>
+	<p style="font-family:times"><img src="file:///C:\Users\Guihu\Pictures\MGH.jpg" align="right" width="180" height="256">Birth: June 15,1993</p>
 	<p style="font-family:times">Marital Status: Unmarried</p>
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
@@ -44,7 +44,7 @@
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	
 	<font face="times">
-	<table style="line-height:25px" border="0">
+	<table border="0">
 		<tr>
 			<td valign="top">[1]&ensp;</td>
 			<td>Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2018, 6(4): 1819-1830.</td>
