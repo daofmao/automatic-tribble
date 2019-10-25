@@ -44,7 +44,7 @@
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	
 	<font face="times">
-	<table border="0">
+	<table style="line-height:25px"border="0">
 		<tr>
 			<td valign="top">[1]&ensp;</td>
 			<td>Guohua Zhou, Guihua Mao, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” IEEE Journal of Emerging and Selected Topics in Power Electronics, 2018, 6(4): 1819-1830.</td>
