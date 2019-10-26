@@ -112,6 +112,6 @@
 	
 	<h3 style="font-family:times"><font color="000000">Appendixes</font></h3>
 	<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Postgraduate Transcript</a></p>
-	<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—undergraduate Transcript</a></p>
+	<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Undergraduate Transcript</a></p>
 </body>
 </html>	
