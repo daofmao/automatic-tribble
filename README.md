@@ -11,6 +11,7 @@
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
+	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
 	<font face="times">
 	<table style="line-height:25px" border="0">
 		<tr>
@@ -24,17 +25,12 @@
 			<td>2016.09 – 2019.06</td>
 		</tr>
 		<tr>
-			<td><b>Doctor</b> in Power Electronics (master-doctor combined program)</td>
-			<td>Southwest Jiaotong University</td>
+			<td><b>Doctor</b> in Power Electronics (master-doctor combined program)&emsp;&emsp;&emsp;</td>
+			<td>Southwest Jiaotong University&emsp;&emsp;&emsp;</td>
 			<td>2019.09 – now</td>
 		</tr>
 	</table>
 	</font>
-	
-	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
-	<p style="font-family:times"><left>Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
-	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
-	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
 	<p style="font-family:times"><left>&emsp;Circuit Analysis, Analog & Digital Electronic Technique, Automatic Control Theory, Electronic Design Automation, Sensor Principle and Application, Principles and Application of Programmable Controller, Motor Drive Basis, Modeling & Simulation of Advanced Power Electronics System, Power Electronics, Analysis & Design of Switch Converters, Modulation & Control Techniques of Power Electronics.</left></p>
 	<h3 style="font-family:times"><font color="000000">Campus post</font></h3>
