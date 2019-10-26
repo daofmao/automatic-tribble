@@ -11,8 +11,28 @@
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
+	<font face="times">
+	<table style="line-height:25px" border="0">
+		<tr>
+			<td><b>Bachelor</b> in Electronic&Information Engineering</td>
+			<td>Southwest Jiaotong University</td>
+			<td>2012.09 – 2016.06</td>
+		</tr>
+		<tr>
+			<td><b>Master</b> in Electrical Engineering</td>
+			<td>Southwest Jiaotong University</td>
+			<td>2016.09 – 2019.06</td>
+		</tr>
+		<tr>
+			<td><b>Doctor</b> in Power Electronics (master-doctor combined program)</td>
+			<td>Southwest Jiaotong University</td>
+			<td>2019.09 – now</td>
+		</tr>
+	</table>
+	</font>
+	
 	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
-	<p style="font-family:times"><left>Bachelor in Electronic & Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &thinsp;Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
+	<p style="font-family:times"><left>Bachelor in Electronic&Information Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Southwest Jiaotong University &emsp; &emsp; 2012.09 – 2016.06</left></p>
 	<p style="font-family:times"><left>Master in Electrical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
 	<p style="font-family:times"><left>Doctor in Power Electronics (master-doctor combined program)&emsp; &emsp; Southwest Jiaotong University &emsp; &emsp; 2019.09 – now</left></p>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
@@ -78,8 +98,8 @@
 			<td>Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, <b>Guihua Mao</b>, “Performance analysis of dynamic reference current controlled tri-state boost converter,” <i>Journal of Southwest Jiaotong University</i>, 2018, 1-7. (in Chinese)</td>
 		</tr>
 	</table>
-	
 	</font>
+	
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
 	<p style="font-family:times"><left>Computer languages: C/C++, VERILOG</left></p>
 	<p style="font-family:times"><left>Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</left></p>
