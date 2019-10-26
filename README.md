@@ -109,5 +109,6 @@
 	
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
 	<p style="font-family:times"><left>&emsp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</left></p>
+	<a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Postgraduate Transcript</a>
 </body>
 </html>	
