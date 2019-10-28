@@ -48,6 +48,8 @@
 	<p style="font-family:times"><left>&emsp;Used to simulate the output characteristic curve of a single photovoltaic panel, responsible for hardware circuit design, including LLC + Buck main power circuit, MOSFET drive circuit, auxiliary power supplies, detection circuits of output voltage and output current, UART communication circuit.</left></p>
 	<h4 style="font-family:times"><font color="000000">Construction of Laboratory digital power platform</font></h4>
 	<p style="font-family:times"><left>&emsp;Including Piccolo F328035 and Piccolo F28335-controlled LED driver power, single-phase inverter, phase-shifted full-bridge power and high-voltage bridgeless PFC power, mainly responsible for the PCB design of four platforms and the program design of inverter.</left></p>
+	<h4 style="font-family:times"><font color="000000">Design of Simulink + DSP (Ti Piccolo) joint simulation platform</font></h4>
+	<p style="font-family:times"><left>&emsp;</left></p>Responsible for building the joint simulation platform of Simulink and DSP, realizing the joint simulation of Simulink + DSP.</p>
 	<h4 style="font-family:times"><font color="000000">Design of 1500VA Three Phase AC Asynchronous Motor Driver</font></h4>
 	<p style="font-family:times"><left>&emsp;Responsible for three phase AC output voltage, output current and temperature sampling, output voltage and output current RMS analysis, UART communication design.</left></p>
 	<h4 style="font-family:times"><font color="000000">Design of LLC Isolated DC/DC converter</font></h4>
@@ -67,7 +69,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019. (accept)</td>
+			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019.</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
