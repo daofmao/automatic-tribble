@@ -49,7 +49,7 @@
 	<h4 style="font-family:times"><font color="000000">Construction of Laboratory digital power platform</font></h4>
 	<p style="font-family:times"><left>&emsp;Including Piccolo F328035 and Piccolo F28335-controlled LED driver power, single-phase inverter, phase-shifted full-bridge power and high-voltage bridgeless PFC power, mainly responsible for the PCB design of four platforms and the program design of inverter.</left></p>
 	<h4 style="font-family:times"><font color="000000">Design of Simulink + DSP (Ti series) joint simulation platform</font></h4>
-	<p style="font-family:times"><left>&emsp;Responsible for designing the joint simulation platform of Simulink and DSP, realizing the joint simulation of Simulink + DSP.</left></p>
+	<p style="font-family:times"><left>&emsp;Responsible for designing the joint simulation platform of Simulink and DSP, realized the joint simulation of Simulink + DSP.</left></p>
 	<h4 style="font-family:times"><font color="000000">Design of 1500VA Three Phase AC Asynchronous Motor Driver</font></h4>
 	<p style="font-family:times"><left>&emsp;Responsible for three phase AC output voltage, output current and temperature sampling, output voltage and output current RMS analysis, UART communication design.</left></p>
 	<h4 style="font-family:times"><font color="000000">Design of LLC Isolated DC/DC converter</font></h4>
