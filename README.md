@@ -69,7 +69,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019.</td>
+			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V<sup>2</sup> control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019.</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
@@ -107,7 +107,7 @@
 	<p style="font-family:times"><left>Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</left></p>
 	
 	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
-	<p style="font-family:times"><left>&emsp;Diligent, sureness, aggressive, conscientiously; very adaptable and good at leaning; having good theoretic knowledge, experimental and DIY skills; calm and steady personality; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left></p>
+	<p style="font-family:times"><left>&emsp;Diligent, conscientious, steady, aggressive; adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left></p>
 	
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
 	<p style="font-family:times"><left>&emsp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</left></p>
