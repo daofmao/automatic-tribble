@@ -69,7 +69,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V<sup>2</sup> control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019.</td>
+			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, “Digital valley V2 control for boost converter with fast load-transient performance,” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019.</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
