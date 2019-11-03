@@ -62,7 +62,7 @@
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	
 	<font face="times">
-	<table style="line-height:25px" border="0">
+	<table style="line-height:25px;text-align:justify" border="0">
 		<tr>
 			<td valign="top">[1]&ensp;</td>
 			<td>Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Wei Zhang, and Shungang Xu, “Digital average voltage / digital average current predictive control for switching DC-DC converters,” <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2018, 6(4): 1819-1830.</td>
@@ -99,15 +99,16 @@
 	</font>
 	
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
-	<p style="font-family:times"><left>Computer languages: C/C++, VERILOG</left></p>
-	<p style="font-family:times"><left>Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</left></p>
-	<p style="font-family:times"><left>Proficient at using Altium Designer for the PCB design of circuit</left></p>
-	<p style="font-family:times"><left>Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</left></p>
-	<p style="font-family:times"><left>Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</left></p>
-	<p style="font-family:times"><left>Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</left></p>
+	<p style="font-family:times;text-align:justify">Foreign language: English CET4 (now preparing for IELTS)</p>
+	<p style="font-family:times;text-align:justify">Computer languages: C/C++, VERILOG</p>
+	<p style="font-family:times;text-align:justify">Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
+	<p style="font-family:times;text-align:justify">Proficient at using Altium Designer for the PCB design of circuit</p>
+	<p style="font-family:times;text-align:justify">Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</p>
+	<p style="font-family:times;text-align:justify">Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
+	<p style="font-family:times;text-align:justify">Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
 	
 	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
-	<p style="font-family:times"><left>&emsp;Diligent, conscientious, steady, aggressive, adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Diligent, conscientious, steady, aggressive, adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</p>
 	
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
 	<p style="font-family:times;text-align:justify">&emsp;I really like the major of Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection". My practical ability and academic level have been improved over the past few years. I want to acquire more advanced and industrialized knowledge and skills on a larger platform, and train more scientific research thought. I am very interested in high-efﬁciency high-power density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc., and I am ready to learn deeply.</p>
