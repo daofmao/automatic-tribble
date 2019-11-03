@@ -32,9 +32,11 @@
 	</table>
 	</font>
 	<h3 style="font-family:times"><font color="000000">Main courses</font></h3>
-	<p style="font-family:times"><left>&emsp;Circuit Analysis, Analog & Digital Electronic Technique, Automatic Control Theory, Electronic Design Automation, Sensor Principle and Application, Principles and Application of Programmable Controller, Motor Drive Basis, Modeling & Simulation of Advanced Power Electronics System, Power Electronics, Analysis & Design of Switch Converters, Modulation & Control Techniques of Power Electronics.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Circuit Analysis, Analog & Digital Electronic Technique, Automatic Control Theory, Electronic Design Automation, Sensor Principle and Application, Principles and Application of Programmable Controller, Motor Drive Basis, Modeling & Simulation of Advanced Power Electronics System, Power Electronics, Analysis & Design of Switch Converters, Modulation & Control Techniques of Power Electronics.</p>
 	<h3 style="font-family:times"><font color="000000">Campus post</font></h3>
 	<p style="font-family:times"><left>&emsp;Monitor of Class 3, 16 Graduate School, Southwest Jiaotong University &emsp; &emsp; 2016.09 – 2019.06</left></p>
+	<h3 style="font-family:times"><font color="000000">Academic scores (total score 4)</font></h3>
+	<p style="font-family:times"><left>&emsp;Undergraduate GPA 3.2; &emsp; &emsp;  Postgraduate GPA 3.14</left></p>
 	<h3 style="font-family:times"><font color="000000">Awards & Achievements</font></h3>
 	<p style="font-family:times"><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left></p>
 	<p style="font-family:times"><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left></p>
@@ -45,19 +47,19 @@
 	
 	<h2 style="font-family:times"><font color="00B050">PROJECT EXPERIENCE</font></h2>
 	<h4 style="font-family:times"><font color="000000">Design of 200W Photovoltaic Simulator</font></h4>
-	<p style="font-family:times"><left>&emsp;Used to simulate the output characteristic curve of a single photovoltaic panel, responsible for hardware circuit design, including LLC + Buck main power circuit, MOSFET drive circuit, auxiliary power supplies, detection circuits of output voltage and output current, UART communication circuit.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Used to simulate the output characteristic curve of a single photovoltaic panel, responsible for hardware circuit design, including LLC + Buck main power circuit, MOSFET drive circuit, auxiliary power supplies, detection circuits of output voltage and output current, UART communication circuit.</p>
 	<h4 style="font-family:times"><font color="000000">Construction of Laboratory digital power platform</font></h4>
-	<p style="font-family:times"><left>&emsp;Including Piccolo F328035 and Piccolo F28335-controlled LED driver power, single-phase inverter, phase-shifted full-bridge power and high-voltage bridgeless PFC power, mainly responsible for the PCB design of four platforms and the program design of inverter.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Including Piccolo F328035 and Piccolo F28335-controlled LED driver power, single-phase inverter, phase-shifted full-bridge power and high-voltage bridgeless PFC power, mainly responsible for the PCB design of four platforms and the program design of inverter.</p>
 	<h4 style="font-family:times"><font color="000000">Design of Simulink + DSP (TI series) joint simulation platform</font></h4>
-	<p style="font-family:times"><left>&emsp;Responsible for designing the joint simulation platform of Simulink and DSP, realized the joint simulation of Simulink + DSP.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Responsible for designing the joint simulation platform of Simulink and DSP, realized the joint simulation of Simulink + DSP.</p>
 	<h4 style="font-family:times"><font color="000000">Design of 1500VA Three Phase AC Asynchronous Motor Driver</font></h4>
-	<p style="font-family:times"><left>&emsp;Responsible for three phase AC output voltage, output current and temperature sampling, output voltage and output current RMS analysis, UART communication design.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Responsible for three phase AC output voltage, output current and temperature sampling, output voltage and output current RMS analysis, UART communication design.</p>
 	<h4 style="font-family:times"><font color="000000">Design of LLC Isolated DC/DC converter</font></h4>
-	<p style="font-family:times"><left>&emsp;Responsible for LLC circuit design, including power circuit of LLC, driver circuit of MOSFET, detection circuits of output voltage and output current, synchronous rectifier circuit and transformer design.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Responsible for LLC circuit design, including power circuit of LLC, driver circuit of MOSFET, detection circuits of output voltage and output current, synchronous rectifier circuit and transformer design.</p>
 	<h4 style="font-family:times"><font color="000000">2015 National Undergraduate Electronics Design Contest – Bidirection DC/DC converter</font></h4>
-	<p style="font-family:times"><left>&emsp;Fabricate the bidirectional DC/DC converter for battery energy storage to realize battery charging and discharging function, responsible for the design of main power circuit and detection circuit, as well as the writing of the paper.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Fabricate the bidirectional DC/DC converter for battery energy storage to realize battery charging and discharging function, responsible for the design of main power circuit and detection circuit, as well as the writing of the paper.</p>
 	<h4 style="font-family:times"><font color="000000">TI Cup 2014 Sichuan College Students Electronic Design Contest – Wireless Power Transfer</font></h4>
-	<p style="font-family:times"><left>&emsp;Responsible for the design of detection circuits of voltage and current, auxiliary power supplies and coil windings, and the writing of the paper.</left></p>
+	<p style="font-family:times;text-align:justify">&emsp;Responsible for the design of detection circuits of voltage and current, auxiliary power supplies and coil windings, and the writing of the paper.</p>
 
 	<h2 style="font-family:times"><font color="00B050">ACADEMIC PAPER</font></h2>
 	
