@@ -7,7 +7,6 @@
 <body>
 	<h1 style="font-family:times"><font color="00B050"><img src="https://github.com/daofmao/maomao/raw/master/GHM.jpg" align="right" width="180" height="256"/>Gui-hua Mao</font></h1>
 	<p style="font-family:times">Birth: June 15,1993</p>
-	<p style="font-family:times">Marital Status: Unmarried</p>
 	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
 	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
 	
@@ -15,17 +14,17 @@
 	<font face="times">
 	<table style="line-height:25px" border="0">
 		<tr>
-			<td><b>Bachelor</b> in Electronic&Information Engineering</td>
+			<td>&emsp;<b>Bachelor</b> in Electronic&Information Engineering</td>
 			<td>Southwest Jiaotong University</td>
 			<td>2012.09 – 2016.06</td>
 		</tr>
 		<tr>
-			<td><b>Master</b> in Electrical Engineering</td>
+			<td>&emsp;<b>Master</b> in Electrical Engineering</td>
 			<td>Southwest Jiaotong University</td>
 			<td>2016.09 – 2019.06</td>
 		</tr>
 		<tr>
-			<td><b>Doctor</b> in Power Electronics (master-doctor combined program)&emsp;&emsp;&emsp;</td>
+			<td>&emsp;<b>Doctor</b> in Power Electronics (master-doctor combined program)&emsp;&emsp;&emsp;</td>
 			<td>Southwest Jiaotong University&emsp;&emsp;&emsp;</td>
 			<td>2019.09 – now</td>
 		</tr>
@@ -38,12 +37,12 @@
 	<h3 style="font-family:times"><font color="000000">Academic scores (total score 4)</font></h3>
 	<p style="font-family:times"><left>&emsp;Undergraduate GPA 3.2; &emsp; &emsp;  Postgraduate GPA 3.14</left></p>
 	<h3 style="font-family:times"><font color="000000">Awards & Achievements</font></h3>
-	<p style="font-family:times"><left>2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left></p>
-	<p style="font-family:times"><left>2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left></p>
-	<p style="font-family:times"><left>2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</left></p>
-	<p style="font-family:times"><left>2017.09/2018.09&emsp; &emsp; &emsp;&thinsp;The First Prize Scholarship</left></p>
-	<p style="font-family:times"><left>2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest</left></p>
-	<p style="font-family:times"><left>2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest</left></p>
+	<p style="font-family:times"><left>&emsp;2019.07&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Yanghua Rookie Scholarship</left></p>
+	<p style="font-family:times"><left>&emsp;2018.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Shenghong Scholarship</left></p>
+	<p style="font-family:times"><left>&emsp;2017.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Excellent Student Cadre</left></p>
+	<p style="font-family:times"><left>&emsp;2017.09/2018.09&emsp; &emsp; &emsp;&thinsp;The First Prize Scholarship</left></p>
+	<p style="font-family:times"><left>&emsp;2015.09&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; First Prize for National Undergraduate Electronics Design Contest</left></p>
+	<p style="font-family:times"><left>&emsp;2014.10&emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Second Prize for Sichuan College Students Electronic Design Contest</left></p>
 	
 	<h2 style="font-family:times"><font color="00B050">PROJECT EXPERIENCE</font></h2>
 	<h4 style="font-family:times"><font color="000000">Design of 200W Photovoltaic Simulator</font></h4>
@@ -105,13 +104,13 @@
 	</font>
 	
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
-	<p style="font-family:times;text-align:justify">Foreign language: English CET4 (now preparing for IELTS)</p>
-	<p style="font-family:times;text-align:justify">Computer languages: C/C++, VERILOG</p>
-	<p style="font-family:times;text-align:justify">Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
-	<p style="font-family:times;text-align:justify">Proficient at using Altium Designer for the PCB design of circuit</p>
-	<p style="font-family:times;text-align:justify">Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</p>
-	<p style="font-family:times;text-align:justify">Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
-	<p style="font-family:times;text-align:justify">Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
+	<p style="font-family:times;text-align:justify">&emsp;Foreign language: English CET4 (now preparing for IELTS)</p>
+	<p style="font-family:times;text-align:justify">&emsp;Computer languages: C/C++, VERILOG</p>
+	<p style="font-family:times;text-align:justify">&emsp;Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
+	<p style="font-family:times;text-align:justify">&emsp;Proficient at using Altium Designer for the PCB design of circuit</p>
+	<p style="font-family:times;text-align:justify">&emsp;Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</p>
+	<p style="font-family:times;text-align:justify">&emsp;Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
+	<p style="font-family:times;text-align:justify">&emsp;Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
 	
 	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
 	<p style="font-family:times;text-align:justify">&emsp;Diligent, conscientious, steady, aggressive, adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</p>
@@ -120,7 +119,7 @@
 	<p style="font-family:times;text-align:justify">&emsp;I really like the major in Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection", and the application of wide-bandgap power semiconductor devices brings new opportunities for power electronics, making more efficient and more compact power converters appear one after another. So, it is very meaningful, and also interesting, to further research the performance and application of wide-bandgap semiconductor devices, and I am ready to learn deeply. Furthermore, I am also interested in high-efﬁciency high-power-density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc.</p>
 	
 	<h3 style="font-family:times"><font color="000000">Appendixes</font></h3>
-	<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Postgraduate Transcript</a></p>
-	<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Undergraduate Transcript</a></p>
+	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Postgraduate Transcript</a></p>-->
+	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Undergraduate Transcript</a></p>-->
 </body>
 </html>	
