@@ -7,24 +7,24 @@
 <body>
 	<h1 style="font-family:times"><font color="00B050"><img src="https://github.com/daofmao/maomao/raw/master/GHM.jpg" align="right" width="180" height="256"/>Gui-hua Mao</font></h1>
 	<p style="font-family:times">Birth: June 15,1993</p>
-	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District,</p>
-	<p style="font-family:times">Chengdu city, Sichuan province, China</p>
+	<p style="font-family:times">Add: No. 999, Xi'an Road, Pidu District, Chengdu city, Sichuan province, China</p>
+	<!--<p style="font-family:times">Chengdu city, Sichuan province, China</p>-->
 	
 	<h2 style="font-family:times"><font color="00B050">EDUCATION</font></h2>
 	<font face="times">
 	<table style="line-height:25px" border="0">
 		<tr>
-			<td>&emsp;<b>Bachelor</b> in Electronic&Information Engineering</td>
+			<td><b>Bachelor</b> in Electronic&Information Engineering</td>
 			<td>Southwest Jiaotong University</td>
 			<td>2012.09 – 2016.06</td>
 		</tr>
 		<tr>
-			<td>&emsp;<b>Master</b> in Electrical Engineering</td>
+			<td><b>Master</b> in Electrical Engineering</td>
 			<td>Southwest Jiaotong University</td>
 			<td>2016.09 – 2019.06</td>
 		</tr>
 		<tr>
-			<td>&emsp;<b>Doctor</b> in Power Electronics (master-doctor combined program)&emsp;&emsp;&emsp;</td>
+			<td><b>Doctor</b> in Power Electronics (master-doctor combined program)&emsp;&emsp;&emsp;</td>
 			<td>Southwest Jiaotong University&emsp;&emsp;&emsp;</td>
 			<td>2019.09 – now</td>
 		</tr>
@@ -118,7 +118,7 @@
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
 	<p style="font-family:times;text-align:justify">&emsp;I really like the major in Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection", and the application of wide-bandgap power semiconductor devices brings new opportunities for power electronics, making more efficient and more compact power converters appear one after another. So, it is very meaningful, and also interesting, to further research the performance and application of wide-bandgap semiconductor devices, and I am ready to learn deeply. Furthermore, I am also interested in high-efﬁciency high-power-density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc.</p>
 	
-	<h3 style="font-family:times"><font color="000000">Appendixes</font></h3>
+	<!--<h3 style="font-family:times"><font color="000000">Appendixes</font></h3>-->
 	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Postgraduate Transcript</a></p>-->
 	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua Mao—Undergraduate Transcript</a></p>-->
 </body>
