@@ -1,7 +1,7 @@
 <html>
 <head>
 	<style>
-		body {margin:100px;padding:100px;line-height:25px;}
+		body {margin:60px;padding:100px;line-height:25px;}
 	</style>
 </head>
 <body>
@@ -102,7 +102,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[10]&ensp;</td>
-			<td>Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, “Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control,” <i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. (in Chine se)</td>
+			<td>Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, “Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control,” <i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. (in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[11]&ensp;</td>
