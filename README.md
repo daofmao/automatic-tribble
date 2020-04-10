@@ -120,12 +120,12 @@
 	<p style="font-family:times;text-align:justify">Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
 	<p style="font-family:times;text-align:justify">Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
 	
-	<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
+	<!--<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
 	<p style="font-family:times;text-align:justify">&emsp;Diligent, conscientious, steady, aggressive, adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</p>
 	
 	<h2 style="font-family:times"><font color="00B050">PURPOSE</font></h2>
-	<p style="font-family:times;text-align:justify">&emsp;I really like the major in Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection", and the application of wide-bandgap power semiconductor devices brings new opportunities for power electronics, making more efficient and more compact power converters appear one after another. So, it is very meaningful, and also interesting, to further research the performance and application of wide-bandgap semiconductor devices, and I am ready to learn deeply. Furthermore, I am also interested in high-ef?ciency high-power-density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc.</p>
-	
+	<p style="font-family:times;text-align:justify">&emsp;I really like the major in Power Electronics. The development of power electronics technology is very important for "green" and "environmental protection", and the application of wide-bandgap power semiconductor devices brings new opportunities for power electronics, making more efficient and more compact power converters appear one after another. So, it is very meaningful, and also interesting, to further research the performance and application of wide-bandgap semiconductor devices, and I am ready to learn deeply. Furthermore, I am also interested in high-effciency high-power-density power converter, magnetics design, wireless power transfer technology, electric vehicles, etc.</p>
+	-->
 	<!--<h3 style="font-family:times"><font color="000000">Appendixes</font></h3>-->
 	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua MaoPostgraduate Transcript</a></p>-->
 	<!--<p style="font-family:times"><a href="https://github.com/daofmao/maomao/raw/master/Guihua%20Mao%E2%80%94Postgraduate%20Transcript.pdf" target="_blank">Guihua MaoUndergraduate Transcript</a></p>-->
