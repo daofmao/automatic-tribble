@@ -113,12 +113,12 @@
 	
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
 	<p style="font-family:times;text-align:justify"> &#10148; Foreign language: English CET4 (now preparing for IELTS)</p>
-	<p style="font-family:times;text-align:justify">Computer languages: C/C++, VERILOG</p>
-	<p style="font-family:times;text-align:justify">Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
-	<p style="font-family:times;text-align:justify">Proficient at using Altium Designer for the PCB design of circuit</p>
-	<p style="font-family:times;text-align:justify">Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</p>
-	<p style="font-family:times;text-align:justify">Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
-	<p style="font-family:times;text-align:justify">Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Computer languages: C/C++, VERILOG</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Proficient at using Altium Designer for the PCB design of circuit</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Mastering the programming of TMS320F, STM32, dsPIC33 and FPGA series controllers by using CCS, Keil, MPLAB X IDE, Xilinx</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Proficient in the use of laboratory commonly power equipment and testing facility include programmable power supplies, programmable electronic loads, signal generators, oscilloscopes, and multimeter</p>
+	<p style="font-family:times;text-align:justify"> &#10148; Proficient to Microsoft office software include Excel, PowerPoint and Word, Visio</p>
 	
 	<!--<h2 style="font-family:times"><font color="00B050">CHARACTERS</font></h2>
 	<p style="font-family:times;text-align:justify">&emsp;Diligent, conscientious, steady, aggressive, adaptable; having good theoretic knowledge and experimental skills; having a strong sense of responsibility and good team-spirit. Having a wide range of hobbies, including taijiquan, badminton, guitar, and music.</p>
