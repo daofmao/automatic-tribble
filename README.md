@@ -66,15 +66,15 @@
 	<table style="line-height:25px;text-align:justify" border="0">
 		<tr>
 			<td valign="top">[1]&ensp;</td>
-			<td><a href="https://ieeexplore.ieee.org/document/8456548">Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Wei Zhang, and Shungang Xu, ¨Digital average voltage / digital average current predictive control for switching DC-DC converters,〃 <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2018, 6(4): 1819-1830.</a></td>
+			<td><a href="https://ieeexplore.ieee.org/document/8456548">Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Wei Zhang, and Shungang Xu, "Digital average voltage / digital average current predictive control for switching DC-DC converters," <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2018, 6(4): 1819-1830.</a></td>
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, ¨Digital average-ripple-based control techniques for switching converters with fast transient performance,〃 <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2019. (Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8950455">Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, "Digital average-ripple-based control techniques for switching converters with fast transient performance," <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2019. <a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, ¨Digital valley V2 control for boost converter with fast load-transient performance,〃 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019. (Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8883293">Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, "Digital valley V2 control for boost converter with fast load-transient performance," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019. <a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[4]&ensp;</td>
