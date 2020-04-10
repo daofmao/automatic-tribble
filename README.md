@@ -112,7 +112,7 @@
 	</font>
 	
 	<h2 style="font-family:times"><font color="00B050">SKILLS & SPECIALITY</font></h2>
-	<p style="font-family:times;text-align:justify">Foreign language: English CET4 (now preparing for IELTS)</p>
+	<p style="font-family:times;text-align:justify"> &#10148 Foreign language: English CET4 (now preparing for IELTS)</p>
 	<p style="font-family:times;text-align:justify">Computer languages: C/C++, VERILOG</p>
 	<p style="font-family:times;text-align:justify">Mastering the simulation software include PSIM, PLECS, Proteus, Multisim, ANSYS Maxwell, MATLAB and Simulink</p>
 	<p style="font-family:times;text-align:justify">Proficient at using Altium Designer for the PCB design of circuit</p>
