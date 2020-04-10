@@ -70,43 +70,43 @@
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td><a href="https://ieeexplore.ieee.org/document/8950455">Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, "Digital average-ripple-based control techniques for switching converters with fast transient performance," <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2019. <a>(Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8950455">Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, "Digital average-ripple-based control techniques for switching converters with fast transient performance," <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2019. </a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
-			<td><a href="https://ieeexplore.ieee.org/document/8883293">Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, "Digital valley V2 control for boost converter with fast load-transient performance," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019. <a>(Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8883293">Guohua Zhou, <b>Guihua Mao</b>, Shuhan Zhou, Zhilei Li, Minrui Leng, "Digital valley V2 control for boost converter with fast load-transient performance," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2019. </a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[4]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Wei Zhang, Qiming Hu, ¨Improved digital average voltage control for switching converter with capacitor current compensation,〃 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2020. (Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/9051999">Guohua Zhou, <b>Guihua Mao</b>, Wei Zhang, Qiming Hu, "Improved digital average voltage control for switching converter with capacitor current compensation," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2020. </a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[5]&ensp;</td>
-			<td>Shungang Xu, Yuan Gao, Guohua Zhou, <b>Guihua Mao</b>, ¨A GMPPT algorithm for PV systems under PSCs using modified maximum power trapezium method,〃 <i>IEEE Transactions on Industrial Electronics</i>, 2019. (Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8960654">Shungang Xu, Yuan Gao, Guohua Zhou, <b>Guihua Mao</b>, "A GMPPT algorithm for PV systems under PSCs using modified maximum power trapezium method," <i>IEEE Transactions on Industrial Electronics</i>, 2019. </a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[6]&ensp;</td>
-			<td>Guohua Zhou, Shaohuan Zeng, Shuhan Zhou, <b>Guihua Mao</b>, and Shungang Xu, ¨Unified discrete-map modeling and dynamical behaviour analysis of current mode controlled tri-state dc-dc converters,〃 <i>IET Power Electronics</i>, 2018, 12(1): 51-60.</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8625958">Guohua Zhou, Shaohuan Zeng, Shuhan Zhou, <b>Guihua Mao</b>, and Shungang Xu, "Unified discrete-map modeling and dynamical behaviour analysis of current mode controlled tri-state dc-dc converters," <i>IET Power Electronics</i>, 2018, 12(1): 51-60.</a></td>
 		</tr>
 		<tr>
 			<td valign="top">[7]&ensp;</td>
-			<td>Guohua Zhou, Hongbo Zhao, <b>Guihua Mao</b>, Shuhan Zhou, Shungang Xu, ¨Overview and classification of modulation techniques of switching converters,〃 <i>Proceedings of the CSEE</i>, 2018, 38(21): 6383-6400. (in Chinese)</td>
+			<td><a href="http://www.en.cnki.com.cn/Article_en/CJFDTotal-ZGDC201821021.htm">Guohua Zhou, Hongbo Zhao, <b>Guihua Mao</b>, Shuhan Zhou, Shungang Xu, "Overview and classification of modulation techniques of switching converters," <i>Proceedings of the CSEE</i>, 2018, 38(21): 6383-6400. </a>(in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[8]&ensp;</td>
-			<td>Shuhan Zhou, Guohua Zhou, <b>Guihua Mao</b>, Kaitun Zhang, Shungang Xu, ¨Stability and transient response analysis of current-mode controlled single-inductor dual-output converter,〃 <i>Transactions of China Electrotechnical Society</i>, 2018, 33(6): 1374-1381. (in Chinese)</td>
+			<td><a href="http://en.cnki.com.cn/Article_en/CJFDTotal-DGJS201806022.htm">Shuhan Zhou, Guohua Zhou, <b>Guihua Mao</b>, Kaitun Zhang, Shungang Xu, "Stability and transient response analysis of current-mode controlled single-inductor dual-output converter," <i>Transactions of China Electrotechnical Society</i>, 2018, 33(6): 1374-1381. </a>(in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[9]&ensp;</td>
-			<td>Shaohuan Zeng, Guihua Zhou, Shuhan Zhou, <b>Guihua Mao</b>, ¨Small-signal modeling and load transient characteristic analysis of current mode controlled tri-state boost converter,〃 <i>Transactions of China Electrotechnical Society</i>, 2019, 34(07): 120-129. (in Chinese)</td>
+			<td><a href="http://www.cnki.com.cn/Article/CJFDTotal-DGJS201907011.htm">Shaohuan Zeng, Guihua Zhou, Shuhan Zhou, <b>Guihua Mao</b>, "Small-signal modeling and load transient characteristic analysis of current mode controlled tri-state boost converter," <i>Transactions of China Electrotechnical Society</i>, 2019, 34(07): 120-129. </a>(in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[10]&ensp;</td>
-			<td>Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, ¨Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control,〃 <i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. (in Chinese)</td>
+			<td><a href="http://www.cnki.com.cn/Article/CJFDTotal-ZGDC201823025.htm">Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, "Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control," <i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. </a>(in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[11]&ensp;</td>
-			<td>Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, <b>Guihua Mao</b>, ¨Performance analysis of dynamic reference current controlled tri-state boost converter,〃 <i>Journal of Southwest Jiaotong University</i>, 2018, 1-7. (in Chinese)</td>
+			<td>Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, <b>Guihua Mao</b>, "Performance analysis of dynamic reference current controlled tri-state boost converter," <i>Journal of Southwest Jiaotong University</i>, 2018, 1-7. (in Chinese)</td>
 		</tr>
 	</table>
 	</font>
