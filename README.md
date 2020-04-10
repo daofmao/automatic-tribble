@@ -82,7 +82,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[5]&ensp;</td>
-			<td><a href="https://ieeexplore.ieee.org/document/8960654" style="color:#000000;">Shungang Xu, Yuan Gao, Guohua Zhou, <b>Guihua Mao</b>, "A GMPPT algorithm for PV systems under PSCs using modified maximum power trapezium method," <i>IEEE Transactions on Industrial Electronics</i>, 2019. </a>(Accept)</td>
+			<td><a href="https://ieeexplore.ieee.org/document/8960654" style="color:#000000;text-decoration:none">Shungang Xu, Yuan Gao, Guohua Zhou, <b>Guihua Mao</b>, "A GMPPT algorithm for PV systems under PSCs using modified maximum power trapezium method," <i>IEEE Transactions on Industrial Electronics</i>, 2019. </a>(Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[6]&ensp;</td>
