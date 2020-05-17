@@ -70,7 +70,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[2]&ensp;</td>
-			<td>Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, <a href="https://ieeexplore.ieee.org/document/8950455" target="_blank" style="color:#000000;text-decoration:none">"Digital average-ripple-based control techniques for switching converters with fast transient performance,"</a> <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2019. (Accept)</td>
+			<td>Guohua Zhou, <b>Guihua Mao</b>, Hongbo Zhao, Shuhan Zhou, and Paolo Mattavelli, <a href="https://ieeexplore.ieee.org/document/8950455" target="_blank" style="color:#000000;text-decoration:none">"Digital average-ripple-based control techniques for switching converters with fast transient performance,"</a> <i>IEEE Journal of Emerging and Selected Topics in Power Electronics</i>, 2020. (Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[3]&ensp;</td>
@@ -90,22 +90,26 @@
 		</tr>
 		<tr>
 			<td valign="top">[7]&ensp;</td>
-			<td>Guohua Zhou, Hongbo Zhao, <b>Guihua Mao</b>, Shuhan Zhou, Shungang Xu, <a href="http://www.en.cnki.com.cn/Article_en/CJFDTotal-ZGDC201821021.htm" target="_blank" style="color:#000000;text-decoration:none">"Overview and classification of modulation techniques of switching converters," </a><i>Proceedings of the CSEE</i>, 2018, 38(21): 6383-6400. (in Chinese)</td>
+			<td>Shuhan Zhou, Guohua Zhou, Gao Liu, and <b>Guihua Mao</b>, "Small-signal modeling and cross-regulation suppressing for current-mode controlled single-inductor dual-output DC-DC converters," <i>IET Power Electronics</i>, 2020. (Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[8]&ensp;</td>
-			<td>Shuhan Zhou, Guohua Zhou, <b>Guihua Mao</b>, Kaitun Zhang, Shungang Xu, <a href="http://en.cnki.com.cn/Article_en/CJFDTotal-DGJS201806022.htm" target="_blank" style="color:#000000;text-decoration:none">"Stability and transient response analysis of current-mode controlled single-inductor dual-output converter," </a><i>Transactions of China Electrotechnical Society</i>, 2018, 33(6): 1374-1381. (in Chinese)</td>
+			<td>Guohua Zhou, Hongbo Zhao, <b>Guihua Mao</b>, Shuhan Zhou, Shungang Xu, <a href="http://www.en.cnki.com.cn/Article_en/CJFDTotal-ZGDC201821021.htm" target="_blank" style="color:#000000;text-decoration:none">"Overview and classification of modulation techniques of switching converters," </a><i>Proceedings of the CSEE</i>, 2018, 38(21): 6383-6400. (in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[9]&ensp;</td>
-			<td>Shaohuan Zeng, Guihua Zhou, Shuhan Zhou, <b>Guihua Mao</b>, <a href="http://www.cnki.com.cn/Article/CJFDTotal-DGJS201907011.htm" target="_blank" style="color:#000000;text-decoration:none">"Small-signal modeling and load transient characteristic analysis of current mode controlled tri-state boost converter," </a><i>Transactions of China Electrotechnical Society</i>, 2019, 34(07): 120-129. (in Chinese)</td>
+			<td>Shuhan Zhou, Guohua Zhou, <b>Guihua Mao</b>, Kaitun Zhang, Shungang Xu, <a href="http://en.cnki.com.cn/Article_en/CJFDTotal-DGJS201806022.htm" target="_blank" style="color:#000000;text-decoration:none">"Stability and transient response analysis of current-mode controlled single-inductor dual-output converter," </a><i>Transactions of China Electrotechnical Society</i>, 2018, 33(6): 1374-1381. (in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[10]&ensp;</td>
-			<td>Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, <a href="http://www.cnki.com.cn/Article/CJFDTotal-ZGDC201823025.htm" target="_blank" style="color:#000000;text-decoration:none">"Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control," </a><i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. (in Chinese)</td>
+			<td>Shaohuan Zeng, Guihua Zhou, Shuhan Zhou, <b>Guihua Mao</b>, <a href="http://www.cnki.com.cn/Article/CJFDTotal-DGJS201907011.htm" target="_blank" style="color:#000000;text-decoration:none">"Small-signal modeling and load transient characteristic analysis of current mode controlled tri-state boost converter," </a><i>Transactions of China Electrotechnical Society</i>, 2019, 34(07): 120-129. (in Chinese)</td>
 		</tr>
 		<tr>
 			<td valign="top">[11]&ensp;</td>
+			<td>Guohua Zhou, Xiang Ran, Shuhan Zhou, <b>Guihua Mao</b>, Shungang Xu, <a href="http://www.cnki.com.cn/Article/CJFDTotal-ZGDC201823025.htm" target="_blank" style="color:#000000;text-decoration:none">"Modeling and analysis of CCM single-inductor dual-output boost converter with fixed valley current mode variable frequency control," </a><i>Proceedings of the CSEE</i>, 2018, 38(23): 7015-7025+7135. (in Chinese)</td>
+		</tr>
+		<tr>
+			<td valign="top">[12]&ensp;</td>
 			<td>Guohua Zhou, Shaohuan Zeng, Shuhuan Zeng, <b>Guihua Mao</b>, "Performance analysis of dynamic reference current controlled tri-state boost converter," <i>Journal of Southwest Jiaotong University</i>, 2018, 1-7. (in Chinese)</td>
 		</tr>
 	</table>
