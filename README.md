@@ -90,7 +90,7 @@
 		</tr>
 		<tr>
 			<td valign="top">[7]&ensp;</td>
-			<td>Shuhan Zhou, Guohua Zhou, Gao Liu, and <b>Guihua Mao</b>, "Small-signal modeling and cross-regulation suppressing for current-mode controlled single-inductor dual-output DC-DC converters," <i>IET Power Electronics</i>, 2020. (Accept)</td>
+			<td>Shuhan Zhou, Guohua Zhou, Gao Liu, and <b>Guihua Mao</b>, "Small-signal modeling and cross-regulation suppressing for current-mode controlled single-inductor dual-output DC-DC converters," <i>IEEE Transactions on Industrial Electronics</i>, 2020. (Accept)</td>
 		</tr>
 		<tr>
 			<td valign="top">[8]&ensp;</td>
